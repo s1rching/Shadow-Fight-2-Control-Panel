@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Shadow Fight 2 Custom Cheat Panel is a Tampermonkey userscript that adds an in-game control panel to Shadow Fight 2. It provides controls for battles, fighter health, damage, resources, equipment, enchantments, energy, player stats, timers, progression, achievements, and profile backups.
+The Shadow Fight 2 Control Panel is a Tampermonkey userscript that adds an in-game control panel to Shadow Fight 2. It provides controls for battles, fighter health, damage, resources, equipment, enchantments, energy, player stats, timers, progression, achievements, and profile backups.
 
 The panel interacts with the game's existing objects and functions rather than simply changing text displayed on the screen. Some changes are applied to the active game state, while others are saved to the player's game profile.
 
