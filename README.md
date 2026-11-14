@@ -1,5 +1,4 @@
 # Shadow Fight 2 – Custom Cheat Panel
-**Version 4.10.0**
 
 ## Overview
 
