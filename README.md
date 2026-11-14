@@ -7,7 +7,7 @@ The Shadow Fight 2 Custom Cheat Panel is a Tampermonkey userscript that adds an 
 
 The panel interacts with the game's existing objects and functions rather than simply changing text displayed on the screen. Some changes are applied to the active game state, while others are saved to the player's game profile.
 
-The script targets the captured **Shadow Fight 2 v1.1.33** game bundle. If the game updates and changes its internal code, some features may stop working until the script is updated.
+The script targets the captured **Shadow Fight 2** game bundle. If the game updates and changes its internal code, some features may stop working until the script is updated.
 
 ---
 
