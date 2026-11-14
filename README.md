@@ -1,4 +1,4 @@
-# Shadow Fight 2 – Custom Cheat Panel
+# Shadow Fight 2 – Control Panel
 
 ## Overview
 
